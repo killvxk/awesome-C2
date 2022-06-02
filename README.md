@@ -178,3 +178,7 @@ https://github.com/3xpl01tc0d3r/Callidus
 https://github.com/3v4Si0N/HTTP-revshell
 
 https://github.com/3ct0s/disctopia-c2
+
+https://github.com/ValtteriL/go-implant
+
+
