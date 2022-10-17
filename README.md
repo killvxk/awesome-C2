@@ -217,3 +217,6 @@ https://github.com/CodeXTF2/PyHmmm
 
 https://github.com/susMdT/SharpAgent
 
+https://github.com/HavocFramework/Talon
+
+
