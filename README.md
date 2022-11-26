@@ -225,6 +225,7 @@ https://github.com/reveng007/SharpGmailC2
 
 https://github.com/LostAquilae/Windows_kernel_rootkit
 
+https://github.com/Enelg52/KittyStager
 
 
 
