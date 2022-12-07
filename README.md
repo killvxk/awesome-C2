@@ -227,5 +227,7 @@ https://github.com/LostAquilae/Windows_kernel_rootkit
 
 https://github.com/Enelg52/KittyStager
 
+https://github.com/naksyn/Pyramid
+
 
 
