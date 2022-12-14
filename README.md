@@ -231,5 +231,7 @@ https://github.com/naksyn/Pyramid
 
 https://github.com/kleiton0x00/RedditC2
 
+https://github.com/kira2040k/RedbloodC2
+
 
 
