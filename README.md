@@ -233,5 +233,8 @@ https://github.com/kleiton0x00/RedditC2
 
 https://github.com/kira2040k/RedbloodC2
 
+https://github.com/h3xduck/TripleCross
+
+https://github.com/SpenserCai/DRat
 
 
