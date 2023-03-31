@@ -17,6 +17,7 @@ https://github.com/trustedsec/trevorc2/
 
 https://github.com/tiagorlampert/CHAOS
 
+
 https://github.com/theshadowboxers/bunraku
 
 https://github.com/sweetsoftware/Ares
@@ -236,5 +237,8 @@ https://github.com/kira2040k/RedbloodC2
 https://github.com/h3xduck/TripleCross
 
 https://github.com/SpenserCai/DRat
+
+https://github.com/DragoQCC/HardHatC2
+
 
 
