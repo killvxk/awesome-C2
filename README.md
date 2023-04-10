@@ -13,10 +13,7 @@ https://github.com/xRET2pwn/PickleC2
 
 https://github.com/UnkL4b/BabyShark
 
-https://github.com/trustedsec/trevorc2/
-
 https://github.com/tiagorlampert/CHAOS
-
 
 https://github.com/theshadowboxers/bunraku
 
@@ -239,6 +236,8 @@ https://github.com/h3xduck/TripleCross
 https://github.com/SpenserCai/DRat
 
 https://github.com/DragoQCC/HardHatC2
+
+https://github.com/0xTriboulet/Revenant
 
 
 
