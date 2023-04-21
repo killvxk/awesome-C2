@@ -241,4 +241,12 @@ https://github.com/0xTriboulet/Revenant
 
 https://github.com/screamz2k/PhoenixC2
 
+https://github.com/badboycxcc/ivy
+
+https://github.com/0x1CA3/Net
+
+https://github.com/0x1CA3/Reaper
+
+https://github.com/wildangelcult/was
+
 
