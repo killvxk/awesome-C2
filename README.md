@@ -123,9 +123,7 @@ https://github.com/gl4ssesbo1/Nebula
 
 https://github.com/geemion/Khepri
 
-https://github.com/FULLSHADE/WarFox
 https://github.com/killvxk/WarFox
-
 
 https://github.com/FSecureLABS/C3
 
