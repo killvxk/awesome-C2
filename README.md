@@ -279,7 +279,6 @@ https://github.com/cbrnrd/maliketh
 
 https://github.com/chvancooten/NimPlant
 
-https://github.com/EnginDemirbilek/NorthStarC2
 
 
 
