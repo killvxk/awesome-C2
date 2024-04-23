@@ -284,6 +284,7 @@ https://github.com/Z3ratu1/geacon_plus
 https://github.com/Faisal-P27/WAREED-DNS-C2
 
 ## C2 Matrix List
+```
 https://github.com/Ne0nd0g/merlin
 https://github.com/enkomio/AlanFramework
 https://github.com/sweetsoftware/Ares
@@ -413,8 +414,7 @@ https://github.com/D1rkMtr/VirusTotalC2
 https://github.com/KadeDev/Void-RAT
 https://github.com/FULLSHADE/WarFox/
 https://github.com/pucarasec/zuthaka
-
-
+```
 
 
 
