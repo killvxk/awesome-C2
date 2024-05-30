@@ -283,6 +283,9 @@ https://github.com/Z3ratu1/geacon_plus
 
 https://github.com/Faisal-P27/WAREED-DNS-C2
 
+https://github.com/hoodoer/JS-Tap
+
+
 ## C2 Matrix List
 ```
 https://github.com/Ne0nd0g/merlin
