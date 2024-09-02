@@ -157,7 +157,7 @@ https://github.com/CMatri/MeetC2
 
 https://github.com/cedowens/MacShellSwift
 
-https://github.com/cedowens/MacC2
+[https://github.com/cedowens/MacC2] FORK https://github.com/gavz/MacC2
 
 https://github.com/byt3bl33d3r/SILENTTRINITY
 
