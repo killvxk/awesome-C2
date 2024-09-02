@@ -125,7 +125,7 @@ https://github.com/gl4ssesbo1/Nebula
 
 https://github.com/geemion/Khepri
 
-https://github.com/killvxk/WarFox
+https://github.com/killvxk/WarFox https://github.com/bopin2020/WARFOX-C2 https://github.com/bopin2020/WARFOX-C2
 
 https://github.com/FSecureLABS/C3
 
