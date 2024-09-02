@@ -105,7 +105,7 @@ https://github.com/Kudaes/LOLBITS
 
 https://github.com/jm33-m0/emp3r0r
 
-https://github.com/jafarlihi/serpentine > PROJECT DEAD
+https://github.com/jafarlihi/serpentine >>> PROJECT DEAD
 
 [https://github.com/itsKindred/redViper] FORK https://github.com/PeterG75/redViper
 
@@ -133,7 +133,7 @@ https://github.com/fozavci/petaqc2
 
 https://github.com/facebookincubator/WEASEL
 
-https://github.com/entynetproject/proton
+https://github.com/entynetproject/proton >>> PROJECT DEAD
 
 https://github.com/enkomio/AlanFramework
 
