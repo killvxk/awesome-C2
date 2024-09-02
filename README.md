@@ -1,4 +1,5 @@
-# C2 List [REPO] FORK means that the source is no longer available > go FORK
+# C2 List 
+EDIT : "[REPO] FORK" means that the source is no longer available > go FORK
 https://github.com/DarkCoderSc/SubSeven
 
 https://gitlab.com/KevinJClark/badrats
@@ -289,7 +290,7 @@ https://github.com/MauroEldritch/mFT
 
 
 
-## C2 Matrix List
+## C2 Matrix List : https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit?gid=0#gid=0
 ```
 https://github.com/Ne0nd0g/merlin
 https://github.com/enkomio/AlanFramework
