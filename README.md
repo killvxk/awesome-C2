@@ -7,7 +7,7 @@ https://github.com/Ziconius/FudgeC2
 
 https://github.com/ZHacker13/ReverseTCPShell
 
-https://github.com/zerosum0x0/koadic
+[https://github.com/zerosum0x0/koadic] FORK (https://github.com/offsecginger/koadic)
 
 https://github.com/xRET2pwn/PickleC2
 
