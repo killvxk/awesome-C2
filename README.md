@@ -19,7 +19,7 @@ https://github.com/theshadowboxers/bunraku
 
 https://github.com/sweetsoftware/Ares
 
-https://github.com/sogonsec/ViolentFungus-C2
+[https://github.com/sogonsec/ViolentFungus-C2] FORK https://github.com/sasqwatch/ViolentFungus-C2
 
 https://github.com/silentbreaksec/Throwback
 
