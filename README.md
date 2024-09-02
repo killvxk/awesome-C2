@@ -1,4 +1,4 @@
-# C2 List
+# C2 List [REPO] FORK means that the source is no longer available > go FORK
 https://github.com/DarkCoderSc/SubSeven
 
 https://gitlab.com/KevinJClark/badrats
@@ -101,7 +101,7 @@ https://github.com/lapolis/palinka_c2
 
 https://github.com/Kudaes/LOLBITS
 
-https://github.com/KadeDev/Void-RAT
+[https://github.com/KadeDev/Void-RAT] FORK https://github.com/TheRipperJhon/Void_RAT
 
 https://github.com/jm33-m0/emp3r0r
 
