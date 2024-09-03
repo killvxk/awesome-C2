@@ -107,7 +107,7 @@ https://github.com/Kudaes/LOLBITS
 
 https://github.com/jm33-m0/emp3r0r
 
-https://github.com/jafarlihi/serpentine >>> PROJECT DEAD
+[https://github.com/jafarlihi/serpentine] FORK https://github.com/killvxk/serpentine
 
 [https://github.com/itsKindred/redViper] FORK https://github.com/PeterG75/redViper
 
