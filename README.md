@@ -1,4 +1,6 @@
-# C2 List
+# C2 List 
+EDIT : "[REPO] FORK" means that the source is no longer available > go FORK 
+
 https://github.com/DarkCoderSc/SubSeven
 
 https://gitlab.com/KevinJClark/badrats
@@ -7,7 +9,7 @@ https://github.com/Ziconius/FudgeC2
 
 https://github.com/ZHacker13/ReverseTCPShell
 
-https://github.com/zerosum0x0/koadic
+[https://github.com/zerosum0x0/koadic] FORK (https://github.com/offsecginger/koadic)
 
 https://github.com/xRET2pwn/PickleC2
 
@@ -19,7 +21,7 @@ https://github.com/theshadowboxers/bunraku
 
 https://github.com/sweetsoftware/Ares
 
-https://github.com/sogonsec/ViolentFungus-C2
+[https://github.com/sogonsec/ViolentFungus-C2] FORK https://github.com/sasqwatch/ViolentFungus-C2
 
 https://github.com/silentbreaksec/Throwback
 
@@ -101,13 +103,13 @@ https://github.com/lapolis/palinka_c2
 
 https://github.com/Kudaes/LOLBITS
 
-https://github.com/KadeDev/Void-RAT
+[https://github.com/KadeDev/Void-RAT] FORK https://github.com/TheRipperJhon/Void_RAT
 
 https://github.com/jm33-m0/emp3r0r
 
-https://github.com/jafarlihi/serpentine
+https://github.com/jafarlihi/serpentine >>> PROJECT DEAD
 
-https://github.com/itsKindred/redViper
+[https://github.com/itsKindred/redViper] FORK https://github.com/PeterG75/redViper
 
 https://github.com/its-a-feature/Mythic
 
@@ -123,7 +125,7 @@ https://github.com/gl4ssesbo1/Nebula
 
 https://github.com/geemion/Khepri
 
-https://github.com/killvxk/WarFox
+https://github.com/killvxk/WarFox https://github.com/bopin2020/WARFOX-C2 https://github.com/bopin2020/WARFOX-C2
 
 https://github.com/FSecureLABS/C3
 
@@ -133,7 +135,7 @@ https://github.com/fozavci/petaqc2
 
 https://github.com/facebookincubator/WEASEL
 
-https://github.com/entynetproject/proton
+https://github.com/entynetproject/proton >>> PROJECT DEAD
 
 https://github.com/enkomio/AlanFramework
 
@@ -157,7 +159,7 @@ https://github.com/CMatri/MeetC2
 
 https://github.com/cedowens/MacShellSwift
 
-https://github.com/cedowens/MacC2
+[https://github.com/cedowens/MacC2] FORK https://github.com/gavz/MacC2
 
 https://github.com/byt3bl33d3r/SILENTTRINITY
 
@@ -257,7 +259,7 @@ https://github.com/t3l3machus/Villain
 
 https://github.com/DarkCoderSc/SharpFtpC2
 
-https://github.com/malcomvetter/Periscope
+https://github.com/malcomvetter/Periscope >>> PROJECT DEAD
 
 https://github.com/g0h4n/REC2
 
@@ -289,7 +291,7 @@ https://github.com/MauroEldritch/mFT
 
 
 
-## C2 Matrix List
+## C2 Matrix List : https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit?gid=0#gid=0
 ```
 https://github.com/Ne0nd0g/merlin
 https://github.com/enkomio/AlanFramework
