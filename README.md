@@ -295,6 +295,8 @@ https://github.com/0x1uke/lurker
 
 https://github.com/cxnturi0n/convoC2
 
+https://github.com/quantumcore/paradoxiaRAT
+
 
 
 ## C2 Matrix List : https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit?gid=0#gid=0
