@@ -301,6 +301,9 @@ https://github.com/quantumcore/remote_hacker_probe
 
 https://github.com/XZB-1248/Spark
 
+https://github.com/ngn13/shrk
+
+
 ## C2 Matrix List : https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit?gid=0#gid=0
 ```
 https://github.com/Ne0nd0g/merlin
