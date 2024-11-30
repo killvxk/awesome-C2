@@ -303,6 +303,11 @@ https://github.com/XZB-1248/Spark
 
 https://github.com/ngn13/shrk
 
+https://github.com/xiao-zhu-zhu/noterce
+
+https://github.com/xiao-zhu-zhu/noterce-amis
+
+
 
 ## C2 Matrix List : https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit?gid=0#gid=0
 ```
