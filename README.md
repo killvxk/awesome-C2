@@ -309,6 +309,8 @@ https://github.com/xiao-zhu-zhu/noterce-amis
 
 https://github.com/HackerCalico/Magic_C2
 
+https://github.com/compr00t/RedC2 FORK https://github.com/killvxk/RedC2
+
 ### IOM C2
 ```
 https://github.com/chainreactors/malice-network
