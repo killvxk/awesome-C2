@@ -318,6 +318,8 @@ https://github.com/compr00t/RedC2 FORK https://github.com/killvxk/RedC2
 https://github.com/maxDcb/C2Implant
 https://github.com/maxDcb/C2Core
 https://github.com/maxDcb/C2LinuxImplant
+https://github.com/maxDcb/C2ImplantPy
+https://github.com/maxDcb/C2ImplantNim
 https://github.com/maxDcb/C2TeamServer
 ```
 
