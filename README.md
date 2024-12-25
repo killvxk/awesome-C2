@@ -311,6 +311,16 @@ https://github.com/HackerCalico/Magic_C2
 
 https://github.com/compr00t/RedC2 FORK https://github.com/killvxk/RedC2
 
+https://github.com/sneakerhax/C2PE
+
+### Exploration C2
+```
+https://github.com/maxDcb/C2Implant
+https://github.com/maxDcb/C2Core
+https://github.com/maxDcb/C2LinuxImplant
+https://github.com/maxDcb/C2TeamServer
+```
+
 ### IOM C2
 ```
 https://github.com/chainreactors/malice-network
