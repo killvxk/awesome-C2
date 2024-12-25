@@ -311,7 +311,7 @@ https://github.com/HackerCalico/Magic_C2
 
 https://github.com/compr00t/RedC2 FORK https://github.com/killvxk/RedC2
 
-https://github.com/sneakerhax/C2PE
+https://github.com/activecm/rita
 
 ### Exploration C2
 ```
