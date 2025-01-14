@@ -311,7 +311,7 @@ https://github.com/HackerCalico/Magic_C2
 
 https://github.com/compr00t/RedC2 FORK https://github.com/killvxk/RedC2
 
-
+https://github.com/fin3ss3g0d/StoneKeeper
 
 ### Exploration C2
 ```
