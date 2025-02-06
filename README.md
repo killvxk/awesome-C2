@@ -313,6 +313,9 @@ https://github.com/compr00t/RedC2 FORK https://github.com/killvxk/RedC2
 
 https://github.com/fin3ss3g0d/StoneKeeper
 
+https://github.com/Adaptix-Framework/AdaptixC2
+
+
 ### Exploration C2
 ```
 https://github.com/maxDcb/C2Implant
