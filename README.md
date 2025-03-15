@@ -315,6 +315,8 @@ https://github.com/fin3ss3g0d/StoneKeeper
 
 https://github.com/Adaptix-Framework/AdaptixC2
 
+https://github.com/moom825/xeno-rat
+
 
 ### Exploration C2
 ```
