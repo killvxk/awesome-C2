@@ -317,6 +317,8 @@ https://github.com/Adaptix-Framework/AdaptixC2
 
 https://github.com/moom825/xeno-rat
 
+https://github.com/adgaultier/tamanoir
+
 
 ### Exploration C2
 ```
