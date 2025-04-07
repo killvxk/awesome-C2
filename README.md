@@ -319,6 +319,8 @@ https://github.com/moom825/xeno-rat
 
 https://github.com/adgaultier/tamanoir
 
+https://github.com/boku7/Loki
+
 
 ### Exploration C2
 ```
