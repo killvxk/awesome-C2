@@ -325,6 +325,8 @@ https://github.com/kyxiaxiang/GateSentinel
 
 https://github.com/zarkones/BloodfangC2
 
+https://github.com/zarkones/OnionC2
+
 
 
 ### Exploration C2
