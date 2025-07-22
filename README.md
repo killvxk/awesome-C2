@@ -323,6 +323,9 @@ https://github.com/boku7/Loki
 
 https://github.com/kyxiaxiang/GateSentinel
 
+https://github.com/zarkones/BloodfangC2
+
+
 
 ### Exploration C2
 ```
