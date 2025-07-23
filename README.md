@@ -25,8 +25,6 @@ https://github.com/sweetsoftware/Ares
 
 https://github.com/silentbreaksec/Throwback
 
-https://github.com/SharpC2/SharpC2
-
 https://github.com/shadow-workers/shadow-workers
 
 https://github.com/sensepost/goDoH
