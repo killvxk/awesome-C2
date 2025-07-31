@@ -435,7 +435,7 @@ https://github.com/MythicAgents/Medusa
 https://github.com/gl4ssesbo1/Nebula
 https://github.com/1N73LL1G3NC3x/Nightmangle
 https://github.com/itaymigdal/Nimbo-C2
-https://github.com/chvancooten/NimPlant/blob/main/LICENSE
+https://github.com/chvancooten/NimPlant
 https://github.com/EnginDemirbilek/NorthStarC2
 https://github.com/mttaggart/OffensiveNotion
 https://github.com/lapolis/palinka_c2
