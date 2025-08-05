@@ -325,6 +325,7 @@ https://github.com/zarkones/BloodfangC2
 
 https://github.com/zarkones/OnionC2
 
+https://github.com/NHAS/reverse_ssh
 
 
 ### Exploration C2
