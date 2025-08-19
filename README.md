@@ -327,6 +327,10 @@ https://github.com/zarkones/OnionC2
 
 https://github.com/NHAS/reverse_ssh
 
+https://github.com/praetorian-inc/ChromeAlone
+
+
+
 
 ### Exploration C2
 ```
