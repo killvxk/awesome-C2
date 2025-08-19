@@ -349,6 +349,13 @@ https://github.com/chainreactors/malefic
 https://github.com/chainreactors/proto
 ```
 
+### Rshell
+```
+https://github.com/Rubby2001/Rshell---A-Cross-Platform-C2
+https://github.com/Rubby2001/Rshell-client
+https://github.com/Rubby2001/Rshell-web
+```
+
 ## C2 Matrix List : https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit?gid=0#gid=0
 ```
 https://github.com/Ne0nd0g/merlin
