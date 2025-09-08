@@ -331,6 +331,7 @@ https://github.com/praetorian-inc/ChromeAlone
 
 https://github.com/almounah/orsted
 
+https://github.com/DarkCoderSc/OptixGate
 
 
 ### Exploration C2
