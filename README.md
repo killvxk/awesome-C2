@@ -333,6 +333,8 @@ https://github.com/almounah/orsted
 
 https://github.com/DarkCoderSc/OptixGate
 
+https://github.com/deriv-security/MeetC2
+
 
 ### Exploration C2
 ```
