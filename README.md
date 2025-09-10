@@ -335,6 +335,10 @@ https://github.com/DarkCoderSc/OptixGate
 
 https://github.com/deriv-security/MeetC2
 
+https://github.com/EntySec/SeaShell
+
+https://github.com/EntySec/Pwny
+
 
 ### Exploration C2
 ```
