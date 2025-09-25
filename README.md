@@ -9,6 +9,12 @@ https://github.com/yuanyuanxiang/SimpleRemoter
 
 https://github.com/yuanyuanxiang/HoldingHands
 
+https://github.com/f3di006/vxRat
+
+https://github.com/f3di006/NetMaster
+
+https://github.com/f3di006/hRDP
+
 https://github.com/yuanyuanxiang/NetBot
 
 https://gitlab.com/KevinJClark/badrats
