@@ -5,6 +5,8 @@ https://github.com/DarkCoderSc/SubSeven
 
 https://github.com/zarkones/XENA
 
+https://github.com/0xflux/Wyrm
+
 https://github.com/yuanyuanxiang/BGW_RAT
 
 https://github.com/yuanyuanxiang/SimpleRemoter
