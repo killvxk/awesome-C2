@@ -9,6 +9,8 @@ https://github.com/0xflux/Wyrm
 
 https://github.com/hdbreaker/Nimhawk
 
+https://github.com/Hood3dRob1n/JSRat-Py
+
 https://github.com/fullstcat/SilverRAT-FULL-Source-Code
 
 https://github.com/yuanyuanxiang/BGW_RAT
