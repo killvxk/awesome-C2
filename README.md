@@ -365,6 +365,8 @@ https://github.com/EntySec/SeaShell
 
 https://github.com/EntySec/Pwny
 
+https://github.com/marcostolosa/httpc2
+
 
 ### Exploration C2
 ```
