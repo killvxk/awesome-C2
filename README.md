@@ -5,6 +5,12 @@ https://github.com/DarkCoderSc/SubSeven
 
 https://github.com/AhMyth/AhMyth-Android-RAT
 
+https://github.com/Morsmalleo/AhMyth
+
+https://github.com/Morsmalleo/AhMyth-Modified-Version
+
+https://github.com/HasanAnorov/KanoRAT
+
 https://github.com/zarkones/XENA
 
 https://github.com/0xflux/Wyrm
