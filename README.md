@@ -377,6 +377,8 @@ https://github.com/EntySec/Pwny
 
 https://github.com/marcostolosa/httpc2
 
+https://github.com/jakobfriedl/conquest
+
 
 ### Exploration C2
 ```
